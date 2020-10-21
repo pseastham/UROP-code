@@ -4,11 +4,11 @@ print("This is an example piece of code!")
 
 # Place for Caroline to submit pull request 
 
-# 
+print("This is Caroline's example piece of code!")
 
 # Place for Krystal to submit pull request 
 
-# 
+ print("This is Krystal's example piece of code!")
 
 # Place for Hanna to submit pull request 
 print("This is an example piece of code!")
