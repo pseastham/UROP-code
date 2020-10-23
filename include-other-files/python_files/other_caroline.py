@@ -1,4 +1,5 @@
 # This is the file for Caroline to edit
 
 def caroline_function():
-    print("This is Caroline's function! It has not yet been edited.") 
+    print("This is Caroline's function! It has been edited.") 
+
